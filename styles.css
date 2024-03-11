@@ -1,0 +1,254 @@
+
+body{
+   background-color: rgba(215, 227, 125, 0.4);
+   
+
+}
+
+
+.green-block-index{
+   
+    background-color: rgba(226, 236, 175, 0.9);
+    border-radius: 7px;
+    width: auto;
+    height: 100px;
+
+}
+
+.text-headline-index{
+color: rgb(150, 191, 150);
+text-align: center;
+padding: 30px;
+font-size: 38px;
+font-weight: bold;
+font-family: Garamond, 'Times New Roman', Times, serif, sans-serif;
+}
+
+.links-index {
+    background-color: rgba(226, 236, 175, 0.9);
+    border-radius: 7px;
+    width: auto;
+    height: auto;
+    color: rgb(150, 191, 150);
+    font-family: Garamond, 'Times New Roman', Times, serif, sans-serif;
+
+
+}
+
+
+
+   
+
+
+.butter-chicken-index-img,
+.borscht-index-img,
+.spaghetti-bolognese-index-img
+{
+   
+    
+    height: 300px;
+    width: auto;
+    border-radius: 10px; 
+    
+ 
+   
+}
+
+.butter-chicken-button-index,
+.borscht-button-index,
+.spaghetti-bolognese-button-index{
+    
+    background-color: rgb(240, 255, 191);
+    font-size: large;
+    border-radius: 5px;
+    
+    
+}
+
+.butter-chicken-img{
+    display: block;
+    height: auto;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+
+}
+
+
+.butter-chicken-headline{
+
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 60px;
+    font-size: 36px;
+    border-radius: 20px;
+}
+
+
+.butter-chicken-intro-text{
+padding-left: 40px;
+padding-right: 40px;
+padding-bottom: 30px;
+padding-top: 30px;
+background-color: rgba(226, 236, 175, 0.9);
+border-radius: 20px; 
+font-family: serif, 'Times New Roman', Times, sans-serif;
+
+}
+
+.butter-chicken-ingredients{
+
+    padding-bottom: 10px;
+    padding-left: 40px;
+    background-color: rgba(226, 236, 175, 0.9);
+    border-radius: 20px; 
+    font-family: serif, 'Times New Roman', Times, sans-serif;
+
+
+}
+
+.butter-chicken-instructions{
+
+padding-left: 40px;
+padding-right: 40px;
+padding-bottom: 30px;
+background-color: rgba(226, 236, 175, 0.9);
+border-radius: 20px; 
+font-family: serif, 'Times New Roman', Times, sans-serif;
+
+}
+
+
+
+.borscht-img
+{
+
+    display: block;
+    height: auto;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+
+.borscht-headline{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 32px;
+    
+    
+}
+
+.borscht-intro-text{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(226, 236, 175, 0.9);
+    border-radius: 20px; 
+    font-family: serif, 'Times New Roman', Times, sans-serif;
+}
+
+.borscht-ingredients-text{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    background-color: rgba(226, 236, 175, 0.9);
+    border-radius: 20px; 
+    font-family: serif, 'Times New Roman', Times, sans-serif;
+}
+
+.borscht-istructions-text{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    background-color: rgba(226, 236, 175, 0.9);
+    border-radius: 20px; 
+    font-family: serif, 'Times New Roman', Times, sans-serif;
+
+}
+
+.spaghetti-bolognese-img{
+
+    display: block;
+    height: auto;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+
+}
+
+.spaghetti-bolognese-headline{
+
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 32px;
+   
+}
+
+.spaghetti-bolognese-intro{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(226, 236, 175, 0.9);
+    border-radius: 20px; 
+    font-family: serif, 'Times New Roman', Times, sans-serif;
+}
+
+.spaghetti-bolognese-ingredients{
+
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    background-color: rgba(226, 236, 175, 0.9);
+    border-radius: 20px; 
+    font-family: serif, 'Times New Roman', Times, sans-serif;
+
+
+}
+
+.spaghetti-bolognese-sauce{
+
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    background-color: rgba(226, 236, 175, 0.9);
+    border-radius: 20px; 
+    font-family: serif, 'Times New Roman', Times, sans-serif;
+
+}
+
+.spaghetti-bolognese-serve{
+
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    background-color: rgba(226, 236, 175, 0.9);
+    border-radius: 20px; 
+    font-family: serif, 'Times New Roman', Times, sans-serif;
+    
+}
+
+.spaghetti-bolognese-instructions{
+    
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    background-color: rgba(226, 236, 175, 0.9);
+    border-radius: 20px; 
+    font-family: serif, 'Times New Roman', Times, sans-serif;
+
+}
+
+
+
+
+
+
+
+
